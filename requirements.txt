@@ -1,0 +1,7 @@
+streamlit>=1.50
+pandas>=2.2
+numpy
+plotly
+# development only
+pytest
+playwright
